@@ -13,8 +13,12 @@ Google test is automatically downloaded, compiled, and linked inside this projec
 
 ## Project Structure
 /root
--/src
--/test
+
+- /src
+
+- /test
+
+
 
 ## Build
 ```
