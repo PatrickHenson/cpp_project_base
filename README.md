@@ -1,8 +1,17 @@
 # cpp_project_base
 
-This repository contains a minimal project build environment to make it easy to start a new project without manually configuring.
+This repository contains a minimal c++ project build environment to enable quickly launching new projects.
 
-# Project Structure
+Google test is automatically downloaded, compiled, and linked inside this project.  This allows for immediate unit test support, however, for a large number of projects it may make sense to link to an external google test library.
+
+## Requirements
+
+* gcc
+
+* CMake
+
+
+## Project Structure
 /root
 -/src
 -/test
