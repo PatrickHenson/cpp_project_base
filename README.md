@@ -12,11 +12,11 @@ Google test is automatically downloaded, compiled, and linked inside this projec
 
 
 ## Project Structure
-/root
+/cpp_project_base
 
-- /src
+-/src
 
-- /test
+-/test
 
 
 
