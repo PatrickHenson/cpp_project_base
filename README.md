@@ -21,3 +21,7 @@ The project executable is located in the /bin directory.
 
 ## Test
 All unit tests are compiled and run using the provided 'run_unit_tests' executable in the /bin directory.
+
+## License 
+
+This project is available as open source under the terms of the [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0)
